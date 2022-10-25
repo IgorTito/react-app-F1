@@ -1,0 +1,9 @@
+header {
+    color: aqua;
+    background: lime;
+    font-size: 5rem;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
